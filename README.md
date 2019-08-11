@@ -30,17 +30,17 @@ This repository contains the files related to Denoising of images containing mul
 <img src="pic.jpg" alt="pic" class="inline"/><br>
 
 # Introduction of Files Contained in this repository
-Display_Digits.py -
+- Display_Digits.py -
   This file is used to convert image dimension from (784,1) to (28,28) and to display those images.
-PSNR.py - 
+- PSNR.py - 
   This file is used to find PSNR values of the generated outputs with respect to actual output. PSNR value tells the                                      quality of a generated denoised image with respect to actual denoise image.
-FeedForward_Sparse_AE.py - 
+- FeedForward_Sparse_AE.py - 
   This file contains the code to create a sparse Autoencoder in tensorflow.
-keras_AE.py - 
+- keras_AE.py - 
   This file is used to create an autoencoder in keras.
-SSDA.py - 
+- SSDA.py - 
   This file is used to create SSDA(stacked sparsed de-noising autoncoder).
-main.py - 
+- main.py - 
   This file contains the final code importing every file from above to generate final output.
 
 # Disclaimer
