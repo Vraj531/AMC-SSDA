@@ -1,5 +1,5 @@
 # AMC-SSDA
-Adaptive Multi Column Sparse Stacked Denoising Autoencoder 
+Adaptive Multi Column Stacked Sparse Denoising Autoencoder 
 
 # Collaborator: 
 Prayushi Mathur, Vraj Patel
