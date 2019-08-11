@@ -27,6 +27,7 @@ This repository contains the files related to Denoising of images containing mul
 3) During testing we do not have target images so that we cannot use QP here. Therefore, we have to use trained RBF which takes latent vector as input and optimal weight vector (which we got from above QP part) as output. 
 
 # IMAGE
+<img src="pic.jpg" alt="pic" class="inline"/><br>
 
 # Introduction of Files Contained in this repository
 Display_Digits.py - This file is used to convert image dimension from (784,1) to (28,28) and to display those images.
