@@ -28,6 +28,16 @@ This repository contains the files related to Denoising of images containing mul
 
 # IMAGE
 <img src="pic.jpg" alt="pic" class="inline"/><br>
+<table>
+	<tr>
+		<td>First Cell</td>
+		<td>Second Cell</td>
+	</tr>
+	<tr>
+		<td>First Cell, Second Row</td>
+		<td>Second Cell, Second Row</td>
+	</tr>
+</table>
 
 # Introduction of Files Contained in this repository
 - Display_Digits.py -
